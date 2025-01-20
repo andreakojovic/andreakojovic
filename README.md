@@ -1,16 +1,23 @@
-## Hi there 👋
+
 
 <!--
-**andreakojovic/andreakojovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Andrea Kojovic! 👋
 
-Here are some ideas to get you started:
+I’m a **Data Science and Business Analytics student** with a passion for learning and applying data-driven solutions to real-world problems.  
+Currently, I’m building my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📊 **Statistical Modeling**
+- 🤖 **Machine Learning**
+- 🛠 **Business Analytics**
+
+## 🛠 Skills and Tools
+- Programming: Python, R, SQL
+- Data Visualization: Tableau, ggplot2
+- Machine Learning: scikit-learn, caret, TensorFlow
+- Databases: MySQL, SQLite
+
+## 🌟 What I'm Working On
+- 📘 Learning advanced statistical methods and predictive analytics.
+- 🚀 Building small projects to practice machine learning and data visualization.
+- 🔍 Exploring ways to automate business decision-making using analytics.
 -->
